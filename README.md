@@ -100,12 +100,13 @@ campaign-agent-standalone/
 
 ## 📝 License
 
-[Your License]
+NOt using 
 
 ## 👥 Contributors
 
-- Your Team
-
+- The powerpuff girls and Prof X - Sidra, Jackie, Safiya, Long 
 ---
-
+## Demo Video Link 
+- https://youtu.be/lsQ0zyXb3AM
+ 
 **Built with ❤️ using AI**
